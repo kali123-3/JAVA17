@@ -1,0 +1,2 @@
+2.8. Remove RMI Activation (JEP 407)
+Marked for removal in version 15, this JEP removed the RMI activation API from the platform in version 17.

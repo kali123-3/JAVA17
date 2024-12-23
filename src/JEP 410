@@ -1,0 +1,4 @@
+2.10. Remove the Experimental AOT and JIT Compiler (JEP 410)
+Introduced into JDK 9 and JDK 10, respectively, as experimental features, the Ahead-Of-Time (AOT) compilation (JEP 295) and Just-In-Time (JIT) compiler from GraalVM (JEP-317) were features with a high cost of maintenance.
+
+On the other hand, they had no significant adoption. Because of that, this JEP removed them from the platform, but developers can still leverage them using GraalVM.
